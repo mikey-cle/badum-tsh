@@ -1,5 +1,5 @@
 body {
-    background-image: url("images/bg.png");
+    background-image: url("/images/bg.png");
     padding: 1vh 1vh 1vh 1vh;
     cursor: url('/cursor/cursor.cur'), auto;
 }

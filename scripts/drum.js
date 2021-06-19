@@ -124,4 +124,5 @@ hatBtn.addEventListener("click", function(x){
 document.getElementById('soundHiHat').pause();
 document.getElementById('soundHiHat').currentTime = 0;
 document.getElementById('soundHiHat').play()
+console.log("success");
 })

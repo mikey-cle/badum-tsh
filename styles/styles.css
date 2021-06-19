@@ -1,7 +1,7 @@
 body {
     background-image: url("/percussion-kit/images/bg.png");
     padding: 1vh 1vh 1vh 1vh;
-    cursor: url('/cursor/cursor.cur'), auto;
+    cursor: url(/cursor/cursor.cur), auto;
 }
 .header {
     width: 100%;
